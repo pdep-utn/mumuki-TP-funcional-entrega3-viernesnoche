@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: filtrarBebidasAlcoholicas
+  inspection: HasUsage:filter
+- binding: filtrarBebidasAlcoholicas
+  inspection: HasLambda

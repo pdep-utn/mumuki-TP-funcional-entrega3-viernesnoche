@@ -8,3 +8,5 @@ Tranqui "flor" []
 Agitador 1670 2000 [("Coca cola", 2)] "rodri"
 ```
 
+:point_right: Debe utilizar una función auxiliar `/1` que utilice filter + expresiones lambda.
+
