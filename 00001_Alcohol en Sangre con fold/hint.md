@@ -1,5 +1,5 @@
 
-**Sugerencia:** obtener primero las bebidas de una persona aprovechando las funciones existentes. Eso puede ir a parar a una función auxiliar.
+**Sugerencia:** obtené primero las bebidas de una persona aprovechando las funciones existentes. Eso puede ir a parar a una función auxiliar.
 
 Luego podés utilizar foldl
 
