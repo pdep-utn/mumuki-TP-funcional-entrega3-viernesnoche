@@ -1,1 +1,2 @@
-**Sugerencia: ** obtener primero las bebidas de una persona aprovechando las funciones existentes
+
+**Sugerencia:** obtener primero las bebidas de una persona aprovechando las funciones existentes.
