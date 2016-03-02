@@ -3,7 +3,7 @@
 -- contamos con personas tranquilas y agitadores:  
  
 data Persona = Tranqui String [(String, Int)] 
-             | Agitador Int Int [(String, Int)] String deriving Show
+             | Agitador Int Int [(String, Int)] String deriving (Eq, Show)
 fer   = Tranqui "fer" [("Coca cola", 1), ("Sprite Zero", 1)]
 flor  = Tranqui "flor" [("Grapa", 1)]
 rodri = Agitador 1670 2000 [("Cerveza", 2)] "rodri"
