@@ -1,4 +1,4 @@
-> Generar una función desintoxicarse/1 que elimina las bebidas alcohólicas de una persona
+> Generar una función `desintoxicarse/1` que elimina las bebidas alcohólicas de una persona
 
 ``` haskell
 *Main> desintoxicarse flor
