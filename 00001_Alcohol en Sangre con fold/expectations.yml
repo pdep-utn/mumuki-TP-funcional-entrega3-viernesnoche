@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: alcoholEnSangreF
+  inspection: HasLambda
+- binding: alcoholEnSangreF
+  inspection: HasUsage:foldl
