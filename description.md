@@ -1,4 +1,4 @@
-En esta segunda entrega estaremos explorando los conceptos
+En esta entrega estaremos explorando los conceptos
 
 * funciones de orden superior
 * expresiones lambda
