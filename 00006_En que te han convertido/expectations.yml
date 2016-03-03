@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: enQueTeHanConvertido
+  inspection: HasLambda
+- binding: enQueTeHanConvertido
+  inspection: HasUsage:foldl
