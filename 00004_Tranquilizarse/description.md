@@ -1,4 +1,4 @@
->Definir la función `tranquilizarse/1`: si la persona es tranquila, no tiene efecto. Si la persona es un agitador, se transforma en tranquila (descarta la información propia del agitador)
+> Definir la función `tranquilizarse/1`: si la persona es tranquila, no tiene efecto. Si la persona es un agitador, se transforma en tranquila (descarta la información propia del agitador)
 
 ``` haskell
 *Main> tranquilizarse flor
