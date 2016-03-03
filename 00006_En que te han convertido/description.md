@@ -6,5 +6,5 @@ a una persona. Resolverlo mediante fold (l/r)
 Tranqui "deby" [("Coca cola",1)]
 
 *Main> enQueTeHanConvertido [descontrolarse, pedirBebida "GrogXD"] fer
-Agitador 1500 2000 [("GrogXD",1),("Coca cola",1),("Sprite Zero",1)] "fer"
+Agitador 1500 2000 [("Coca cola",1),("Sprite Zero",1),("GrogXD",1)] "fer"
 ```
