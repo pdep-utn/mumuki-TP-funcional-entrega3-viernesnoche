@@ -1,4 +1,4 @@
-Para utilizar la función fold
+:hand: Para utilizar la función fold
 
 * el valor inicial es... una persona en su estado inicial
 * la lista... son la lista de transformaciones que queremos aplicar

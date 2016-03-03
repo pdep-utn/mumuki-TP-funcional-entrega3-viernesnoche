@@ -1,5 +1,5 @@
 > Definir la función `enQueTeHanConvertido/2`, que aplica una serie de transformaciones 
-a una persona. Resolverlo mediante fold (l/r) 
+a una persona. Resolverlo mediante foldl. 
 
 ``` haskell
 *Main> enQueTeHanConvertido [pedirBebida "Grapa", pedirBebida "Coca cola",  pedirBebida "Grog XD", tranquilizarse, desintoxicarse] deby
