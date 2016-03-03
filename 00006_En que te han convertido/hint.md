@@ -1,3 +1,8 @@
+Para utilizar la función fold
+
+* el valor inicial es... una persona en su estado inicial
+* la lista... son la lista de transformaciones que queremos aplicar
+* y falta la función, que debe generar nuevos estados a la persona aplicando cada función de transformación específico.
 
 Asumí que ya existen las funciones 
 
