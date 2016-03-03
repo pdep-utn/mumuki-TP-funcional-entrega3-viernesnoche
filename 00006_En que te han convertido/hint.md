@@ -1,4 +1,3 @@
-Para modelar una operación con **efecto** tenés que generar un nuevo valor y devolverlo como resultado de la función. Además trabajá cada tipo de persona con pattern matching.
 
 Asumí que ya existen las funciones 
 
