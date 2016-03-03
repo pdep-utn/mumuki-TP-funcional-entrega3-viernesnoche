@@ -5,5 +5,5 @@
 Agitador 1500 2000 [("Grapa", 1)] "flor" 
 
 *Main> descontrolarse deby
-Agitador "deby" [("Grog XD", 25), ("Cerveza", 1), ("Grog XD", 1)]
+Agitador 7000 1500 [("Grog XD", 25), ("Cerveza", 1), ("Grog XD", 1)] "deby"
 ```
