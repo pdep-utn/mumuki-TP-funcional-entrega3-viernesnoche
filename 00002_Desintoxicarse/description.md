@@ -8,5 +8,5 @@ Tranqui "flor" []
 Agitador 1670 2000 [("Coca cola", 2)] "rodri"
 ```
 
-:point_right: Tenés que definir una función auxiliar `filtrarBebidasAlcoholicas/1` que utilice filter + expresiones lambda (no podés repetir código para agitadores y tranquilos).
+:point_right: Tenés que definir una función auxiliar `filtrarBebidasAlcoholicas/1` que utilice filter + expresiones lambda, que sirva para filtrar las bebidas alcohólicas tanto para agitadores como para los tranquilos.
 
