@@ -4,6 +4,6 @@
 *Main> pedirBebida "Coca cola" flor
 Tranqui "flor" [("Grapa", 1), ("Coca cola", 1)]
 
-*Main> desintoxicarse (Agitador 1670 2000 [("Cerveza", 2), ("Coca cola", 2)] "rodri")
+*Main> pedirBebida (Agitador 1670 2000 [("Cerveza", 2), ("Coca cola", 2)] "rodri")
 Agitador 1670 2000 [("Cerveza", 2), ("Coca cola", 2), ("Coca cola", 1)] "rodri"
 ```
