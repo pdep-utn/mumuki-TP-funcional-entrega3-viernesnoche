@@ -9,13 +9,9 @@ En esta entrega estaremos explorando los conceptos
 
 Cada grupo tendrá 4 integrantes y deben cumplir los 4 con la guía, pero la responsabilidad de cada uno recaerá de la siguiente manera:
 
-Responsable 1 :point_right: Ejercicio 1
+Responsable 1 :point_right: Ejercicio 1, 3 y 5
 
-Responsable 2 :point_right: Ejercicios 2 y 7 
-
-Responsable 3 :point_right: Ejercicios 3 y 5
-
-Responsable 4 :point_right: Ejercicios 4 y 6
+Responsable 2 :point_right: Ejercicios 2, 4, 6 y 7 
 
 ## Importante
 
